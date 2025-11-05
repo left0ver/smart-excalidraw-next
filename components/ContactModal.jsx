@@ -19,7 +19,6 @@ export default function ContactModal({ isOpen, onClose }) {
         </div>
 
         <div className="flex flex-col items-center space-y-4">
-          <p className="text-gray-600 text-center">扫码添加作者微信</p>
 
           {/* 二维码图片 */}
           <img
@@ -33,7 +32,7 @@ export default function ContactModal({ isOpen, onClose }) {
 
           <p className="text-gray-500 text-sm text-center">
             扫描二维码，添加作者微信<br/>
-            获取更多功能支持和技术交流
+            限时领取免费 claude-4.5-sonnet key
           </p>
         </div>
       </div>

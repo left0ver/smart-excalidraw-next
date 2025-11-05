@@ -255,7 +255,7 @@ export default function ImageUpload({ onImageSelect, isGenerating, chartType, on
               <img
                 src={imagePreview}
                 alt="预览"
-                className="h-[300px] object-contain"
+                className="w-full object-contain"
               />
             )}
 

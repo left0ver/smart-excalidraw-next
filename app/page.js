@@ -391,7 +391,7 @@ export default function Home() {
           )}
 
           {/* Input Section */}
-          <div style={{ height: '60%' }} className="overflow-hidden">
+          <div style={{ height: '60%' }} className="overflow-auto">
             <Chat
               onSendMessage={handleSendMessage}
               isGenerating={isGenerating}
