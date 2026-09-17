@@ -6,9 +6,7 @@
 
 https://ai-draw-nexus.aizhi.site
 
-🚀🚀🚀新版本github地址：
 
-https://github.com/liujuntao123/ai-draw-nexus
 
 
 一图介绍
